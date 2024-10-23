@@ -1,5 +1,5 @@
 {
-  "name": "Scrim-s0ubf9mr1b",
+  "name": "Reel Recs",
   "description": "https://v2.scrimba.com/the-ai-engineer-path-c02v/~035",
   "scripts": {
     "start": "vite",
@@ -8,8 +8,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "openai": "4.17.4",
+    "@supabase/supabase-js": "^2.45.6",
+    "openai": "^4.17.4",
     "vite": "latest"
-  },
-  "devDependencies": {}
+  }
 }
